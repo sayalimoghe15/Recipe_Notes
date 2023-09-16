@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526331975051",
+    "project_id": "reciepe-notes",
+    "storage_bucket": "reciepe-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526331975051:android:39eebbd182eb069210cb8e",
+        "android_client_info": {
+          "package_name": "com.example.recipe_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7S2aMvSXXYaO8whWjPm7Q91ypMReQ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
