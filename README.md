@@ -1,7 +1,7 @@
 # the main Code is in Master Branch
 # Recipe_Notes
 
-The Recipe Notes App is a simple Flutter Application tha allows user to store Recipes ising Firebase Database.
+The Recipe Notes App is a simple Flutter Application tha allows user to store Recipes using Firebase Database.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
